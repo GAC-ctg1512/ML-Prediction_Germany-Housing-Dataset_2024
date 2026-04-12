@@ -35,4 +35,4 @@ This project presents a large-scale machine learning framework for predicting ho
 To develop a scalable and data-driven framework for predicting housing prices in Germany by leveraging large datasets, statistical insights, and machine learning-ready data pipelines.
 
 ## Author
-**Galib Ahmed Chowdhury**
+Galib Ahmed Chowdhury
